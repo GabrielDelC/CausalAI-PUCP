@@ -21,3 +21,10 @@ This is a Causal Machine Learning Course
 2. Mariano Melgar
 3. San Francisco de Asís
 4. Jaime Ferraro
+
+## List of Universities
+1. PUCP
+2. UP
+3. UNI
+4. San Marcos
+
