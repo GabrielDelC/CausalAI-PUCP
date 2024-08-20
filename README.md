@@ -15,3 +15,9 @@ This is a Causal Machine Learning Course
 
 ## List of actors and actress
 1. Al Pachino
+
+## List of Schools
+1. Guadalupe
+2. Mariano Melgar
+3. San Francisco de Asís
+4. Jaime Ferraro
