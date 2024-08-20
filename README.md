@@ -15,3 +15,9 @@ This is a Causal Machine Learning Course
 
 ## List of actors and actress
 1. Al Pachino
+
+## List of Universities
+1. PUCP
+2. UP
+3. UNI
+4. San Marcos
